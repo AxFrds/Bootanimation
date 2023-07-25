@@ -1,4 +1,5 @@
 # Resurrection Remix V1
+Resurrection Remix
 - [Preview](https://i.ibb.co/DQBjGdH/Resurrection-Remix-V1.gif)
 - [Download](https://raw.githubusercontent.com/AxFrds/Bootanimation/master/Module/RR-Bootanimation-V1.zip)
 
