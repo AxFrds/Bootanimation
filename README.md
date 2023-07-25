@@ -5,7 +5,6 @@
 
 # Resurrection Remix V2
 [Preview](https://i.ibb.co/st1kz6f/Resurrection-Remix-V2.gif)
-
 [Download](https://raw.githubusercontent.com/AxFrds/Bootanimation/master/Module/RR-Bootanimation-V2.zip)
 
 # Resurrection Remix V3
